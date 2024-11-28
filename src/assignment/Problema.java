@@ -15,7 +15,6 @@ public class Problema {
 
 	        if (flips <= 0) {
 	            System.out.println("Please enter a positive integer.");
-	            scanner.close();
 	            return;
 	        }
 
